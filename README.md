@@ -116,6 +116,4 @@ transformers==4.40.0
 
 chromadb
 
-PIL
-
 pandas
